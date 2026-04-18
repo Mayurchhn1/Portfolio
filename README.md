@@ -65,7 +65,7 @@ Python • FastAPI • React/Streamlit • MongoDB • Generative AI (LLMs)
 
 ## 📫 Contact
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/mayur-chauhan  
+- 🔗 LinkedIn: [Mayur Chauhan](https://www.linkedin.com/in/mayurchauhan/)
 - 📧 Email: mayurchauhan.ai@gmail.com  
 
 ---
