@@ -1,2 +1,2 @@
-# Portfolio
-AI Decision Intelligence Portfolio | Multi-Agent Systems for Structured Insights, Sales Strategy &amp; Business Decision Support
+# AI Decision Intelligence Portfolio 
+A curated showcase of AI-powered decision systems focused on structured insights, strategy, and business impact.
